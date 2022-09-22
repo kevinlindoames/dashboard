@@ -47,7 +47,7 @@ const Sidebar = () => {
     >
     {link.icon}
     <span class className="capitalize">
-      {links.name}
+      {link.name}
     </span>
     </NavLink>
     ))}
